@@ -23,6 +23,7 @@ class FebLunch3
 				}
 			}
 			Queue<Integer[]> q = new LinkedList<Integer[]>();
+			
 		}
 	}
 }
